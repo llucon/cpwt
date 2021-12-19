@@ -1,0 +1,15 @@
+OOP:
+	<<interface>> 	- public interface XXX {
+			}
+	nichts		- public class {
+			}
+	
+	Pfeile:
+		-> private (Ende Pfeil) 
+		--> class implements (Ende Pfeil)
+	
+	Symbole:
+		+ public 
+		- private
+		kursiv: abstract
+		~ nichts?
